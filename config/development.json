@@ -1,0 +1,12 @@
+{
+    "appConfig":{
+        "config":"development",
+        "databases":{
+            "mongoDB":{
+                "username":"vamsi123",
+                "password":"vamsi123",
+                "url":"mongodb+srv://yashwanth:yashwanth123@cluster0.sxggs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+            }
+        }
+    }
+}
